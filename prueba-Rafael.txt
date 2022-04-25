@@ -1,0 +1,22 @@
+clase: es una plana en la que se define un objeto, que dependera de lo que uno vaya a escribir en el, 
+normalmente en los proyecto se utilizan multiples clases en las cuales se almacenan distintos tipo de clases, 
+unas clases utilizada para definir un objeto, otras clases para definir metodos, otras para realizar alguna conexion , etc.
+ esto con el fin de que el proyecto sea mas ordenado y legible para quien lo vaya a utilizar. 
+
+interfaz: es una plantilla como la de la clase pero se utiliza para hacer una conexion entre 2 sistemas que compartan ciertos atributos
+
+clase abtracta: es una clase que no puede ser instanciado, contiene al menos un metodo abstracto y puede ser utilizado por medio de subclases por medio de herencia
+
+herencia: herencia es la forma en la que una clase puede tomar atributos o metodos de otra clase en la cual se debe hacer una referencia por medio de un extends
+
+polimorfismo: es la forma en la que objetos distintos pueden tener una respuesta a un mismo metodo escrito de igual forma
+
+
+
+patrones de diseño
+
+singleton :es un patron de diseño que permite a una unica instancia utilizar varios objetos 
+
+facade: se trata de una interfaz que se utiliza para simplificar o esconder la complejidad del como un cliente utilizara un sistema 
+
+command: es la encapsulacion de un request de una operacion contenida en un metodo
